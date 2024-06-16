@@ -12,5 +12,8 @@ c:
 calc.com
 ```
 
+![result.png](task_1%2Fresult.png)
+
 ## Task 2
-TO DO
+ 
+![result.png](task_2%2Fresult.png)
